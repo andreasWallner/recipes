@@ -2,6 +2,7 @@
 !size: 4 servings
 !author: Andreas Wallner
 !source: allrecipes.com (http://allrecipes.com/Recipe/Authentic-Chicken-Tikka-Masala)
+!lang: en
 
 # 4tbs yoghurt
 # 2tsp garam marsala

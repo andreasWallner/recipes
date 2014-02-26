@@ -2,6 +2,7 @@
 !size: 4 mittelgroße Ciabatta
 !author: Andreas Wallner
 !source: artisan bread baking (http://artisanbreadbaking.com/bread/ciabatta/)
+!lang: de
 
 # 285g Wasser
 # 285g Mehl W700

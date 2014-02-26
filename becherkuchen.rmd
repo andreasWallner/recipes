@@ -2,6 +2,7 @@
 !size: 1 Blech
 !author: Andreas Wallner
 !source: Familienrezept
+!lang: de
 
 # 2Becher Joghurt
 # 2Becher Mehl W480

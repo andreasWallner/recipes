@@ -2,6 +2,7 @@
 !size: 20x20 Form
 !author: Andreas Wallner
 !source: adaptiert von USA Kulinarisch (http://www.usa-kulinarisch.de/rezept/triple-chocolate-brownies-3fach-schokobrownies/)
+!lang: de
 
 # 125g Bitterschokolade
 # 125g Butter

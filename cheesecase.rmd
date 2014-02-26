@@ -1,6 +1,7 @@
 !title: Cheesecake
 !size: 1 28cm spring-form pan
 !author: Andreas Wallner
+!lang: en
 
 # 150g butter biscuits
 # 60g butter
