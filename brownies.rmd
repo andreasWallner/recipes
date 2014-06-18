@@ -1,28 +1,23 @@
 !title: Brownies
-!size: 20x20 Form
+!size: 28x28cm
 !author: Andreas Wallner
-!source: adaptiert von USA Kulinarisch (http://www.usa-kulinarisch.de/rezept/triple-chocolate-brownies-3fach-schokobrownies/)
+!source: Chocolate Bar by Matt Lewis & Alison Nelson
 !lang: de
 
-# 125g Bitterschokolade
-# 125g Butter
+# 300g dunkle Schokolade
+# 226g Butter
 * über Wasserbad schmelzen
 
-# 2 Eier
-# 125g Zucker
-# Vanillezucker
-* schaumig schlagen
+# 30g Kakao
+# 400g Zucker
+# 1EL Vanillearoma
+# 2Priesen Salz
+* unter die Schokolademasse rühren
 
-# 50g Kakao
-# 125ml Schlagobers
-* unter die Eimasse mischen
-* überkühlte, geschmolzene Schokolade untermischen
+# 6 Eier
+* nach und nach unterrühren
 
-# 125g Schokolade, gehackt
-* untermischen
-* in Form glattstreichen
-* vorgeheizt bei 200°C für ca. 25 Minuten backen, Brownie sollte innen nicht ganz durchgebacken sein
+# 190g Mehl
+* unterrühren
 
-# 75g Bitterschokolade
-# 75g Vollmilchschokolade
-* schmelzen und Brownies glasieren
++ Im auf 180°C vorgeheizten Rohr ca. 20-25 Minuten backen, nicht ganz durchbacken
