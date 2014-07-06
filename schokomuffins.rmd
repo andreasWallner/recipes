@@ -1,4 +1,4 @@
-!title Schokomuffins
+!title: Schokomuffins
 !author: Andreas Wallner
 !source: Simon Pilz
 !size: ca. 24 Muffins
