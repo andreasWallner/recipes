@@ -1,7 +1,7 @@
 !title: Schokomuffins
 !author: Andreas Wallner
 !source: Simon Pilz
-!size: ca. 24 Muffins
+!size: ca. 12 Muffins
 !lang: de
 
 # 240g Mehl
