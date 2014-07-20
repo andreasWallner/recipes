@@ -1,5 +1,5 @@
 !title: Apfelstrudel
-!size: Ein Backblech
+!size: 1 Backblech
 !author: Gerhard Scheikl
 !source: http://www.chefkoch.de/rezepte/1550611262213964/Alt-Wiener-Apfelstrudel.html
 !lang: de
