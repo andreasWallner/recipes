@@ -3,29 +3,29 @@
 !author: Andreas Wallner
 !lang: de
 
-# 250g Mehl
-# 190g Butter
-# 250g Topfen
-# 1TL Backpulver
-# 1EL Vanillezucker
-* mischen, kneten
-* kühlstellen
-* zu 20cm Quadrat ausrollen
-* linkes und rechtes Drittel einschneiden
-* mittleres Drittel pikieren
+* 250g Mehl
+* 190g Butter
+* 250g Topfen
+* 1TL Backpulver
+* 1EL Vanillezucker
+- mischen, kneten
+- kühlstellen
+- zu 20cm Quadrat ausrollen
+- linkes und rechtes Drittel einschneiden
+- mittleres Drittel pikieren
 
-# 200g Mohl, gerieben
-# 8EL Milch, heiss
-# 100g Zucker
-# 1EL Vanillezucker
-# 1EL Honig
-# Zitronenzeste
-# Rosinen
-* mischen
-* mittleres drittel des Teigs belegen
-* Streifen abwechselnd über Fülle falten
-* im auf 180°C vorgeheizten Rohr ca. 30 Minuten backen
+* 200g Mohl, gerieben
+* 8EL Milch, heiss
+* 100g Zucker
+* 1EL Vanillezucker
+* 1EL Honig
+* Zitronenzeste
+* Rosinen
+- mischen
+- mittleres drittel des Teigs belegen
+- Streifen abwechselnd über Fülle falten
+- im auf 180°C vorgeheizten Rohr ca. 30 Minuten backen
 
-# 60g Zucker
-# 1/16l Wasser
-* kochen
+* 60g Zucker
+* 1/16l Wasser
+- kochen

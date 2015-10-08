@@ -4,44 +4,44 @@
 !source: Giallo Zafferano (http://www.giallozafferano.it)
 !lang: de
 
-# 400g Wasser
-# 40g Olivenöl
-# 2TL Zucker
-# 15g Salz
-# 300g Mehl W700
+* 400g Wasser
+* 40g Olivenöl
+* 2TL Zucker
+* 15g Salz
+* 300g Mehl W700
 
-* mischen
+- mischen
 
-# 25g Frischhefe
+* 25g Frischhefe
 
-* erneut gut mischen
+- erneut gut mischen
 
-# 300g Mehl W700
+* 300g Mehl W700
 
-* fertig mischen
+- fertig mischen
 
-# 40g Olivenöl
-* Öl auf Backblech streichen
-* Teig auf Blech legen, mit dem Öl betreichen
+* 40g Olivenöl
+- Öl auf Backblech streichen
+- Teig auf Blech legen, mit dem Öl betreichen
 
 + Im Backrohr mit eingeschaltener Lampe 1—1 1/2 Stunden gehen lassen, bis Teig ca. doppelt so groß ist
 
-# Olivenöl
-# Salz
-* kontrollieren das noch Öl unter Focaccia ist
-* auf Blechgröße strecken
-* mit Öl bestreichen
-* mit Salz bestreuen
+* Olivenöl
+* Salz
+- kontrollieren das noch Öl unter Focaccia ist
+- auf Blechgröße strecken
+- mit Öl bestreichen
+- mit Salz bestreuen
 
 + erneut ca. 1/2 Stunde gehen lassen
 
-# Olivenöl
-* mit Fingerspitzen Einbuchtungen machen
-* mit Olivenöl bestreichen
+* Olivenöl
+- mit Fingerspitzen Einbuchtungen machen
+- mit Olivenöl bestreichen
 
 + nochmals ca. 1/2 Stunde gehen lassen
 
-# Wasser
-* bestäuben
-* vorgeheizt mit Dampf bei 200°C für ca. 5 Minuten backen
-* 10 Minuten fertigbacken
+* Wasser
+- bestäuben
+- vorgeheizt mit Dampf bei 200°C für ca. 5 Minuten backen
+- 10 Minuten fertigbacken

@@ -4,23 +4,23 @@
 !size: 2 Portionen
 !lang: de
 
-# 1 Aubergine
-# Salz
-* in Scheiben schneiden, vierteln
-* einsalzen
+* 1 Aubergine
+* Salz
+- in Scheiben schneiden, vierteln
+- einsalzen
 
 + 30-60 Minuten ziehen lassen
 
-# 75g Hirse
-* kochen
+* 75g Hirse
+- kochen
 
-# 50g Mandelstifte
-* leicht, rösten
-* Aubergine ebenfalls rösten
+* 50g Mandelstifte
+- leicht, rösten
+- Aubergine ebenfalls rösten
 
-# 1/4Bund Basilikum, grob gehackt
-# 400g Kichererbsen
-# Olivenöl
-# Salz
-* alles Mischen
-* abmachen, würzen
+* 1/4Bund Basilikum, grob gehackt
+* 400g Kichererbsen
+* Olivenöl
+* Salz
+- alles Mischen
+- abmachen, würzen

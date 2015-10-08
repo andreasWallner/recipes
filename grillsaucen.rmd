@@ -3,48 +3,48 @@
 !author: Andreas Wallner
 !lang: de
 
-# 300ml Cola
-# 350ml Ketchup
-# 150g Zwiebel, feinst geh.
-# 125ml Apfelessig
-# 1EL Chili, getr.
-# 1TL Salz
-# Worcestersauce
-* aufkochen, 30—40 Minuten köcheln
+* 300ml Cola
+* 350ml Ketchup
+* 150g Zwiebel, feinst geh.
+* 125ml Apfelessig
+* 1EL Chili, getr.
+* 1TL Salz
+* Worcestersauce
+- aufkochen, 30—40 Minuten köcheln
 
 !title: Bananen-Curry Sauce
 !size: 1 Glas
 !author: Andreas Wallner
 !lang: de
 
-# 150g Joghurt
-# 100g Majonaise
-# 1 Banane
-# 2EL Currpulver
-# 2EL Zitronensaft
-# Salz
+* 150g Joghurt
+* 100g Majonaise
+* 1 Banane
+* 2EL Currpulver
+* 2EL Zitronensaft
+* Salz
 
-* Banane zerdrücken alles mischen
+- Banane zerdrücken alles mischen
 
 !title: Joghurt-Feta Dip
 !size: 1 Glas
 !author: Andreas Wallner
 !lang: de
 
-# 60g Feta
-# 600g Joghurt
-# 1EL Olivenöl
+* 60g Feta
+* 600g Joghurt
+* 1EL Olivenöl
 
-* mixen bis glatt
+- mixen bis glatt
 
-# 1 Zitroneschale
-# 1Zweig Fenchelgrün
-# Salz
-# Pfeffer
-# Zucker
+* 1 Zitroneschale
+* 1Zweig Fenchelgrün
+* Salz
+* Pfeffer
+* Zucker
 
-* abschmecken
-* über Nacht ziehen lassen
+- abschmecken
+- über Nacht ziehen lassen
 
 !title: Charred Pepper Sauce
 !size: 1 Cup
@@ -52,22 +52,22 @@
 !source: Smitten Kitchen (http://smittenkitchen.com/blog/2012/08/charred-pepper-steak-sauce/)
 !lang: en
 
-# 2 red bell peppers
-* roast until blackened
-* remove skin, seeds
+* 2 red bell peppers
+- roast until blackened
+- remove skin, seeds
 
-# 2/3cup tomato purée
-# 1/4cup orange juice
-# 2Tbsp olive oil
-# 1Tbsp balsamic vinegar
-# 1Tbsp honey
-# 1Tbsp ground mustard
-# 1/2Tbsp ground ginger
-# 1/4Tbsp ground black pepper
-# 1/4Tbsp onion powder
-# 1/8Tbsp ground allspice
-# salt
-# Worcestershire sauce
-* add to peppers, purée
-* simmer, reduce by half
-* pass through sieve
+* 2/3cup tomato purée
+* 1/4cup orange juice
+* 2Tbsp olive oil
+* 1Tbsp balsamic vinegar
+* 1Tbsp honey
+* 1Tbsp ground mustard
+* 1/2Tbsp ground ginger
+* 1/4Tbsp ground black pepper
+* 1/4Tbsp onion powder
+* 1/8Tbsp ground allspice
+* salt
+* Worcestershire sauce
+- add to peppers, purée
+- simmer, reduce by half
+- pass through sieve

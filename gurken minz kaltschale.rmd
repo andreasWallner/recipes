@@ -3,16 +3,16 @@
 !size: 2 Portionen
 !lang: de
 
-# 1 Gurke
-* schälen, Kerne entfernen
+* 1 Gurke
+- schälen, Kerne entfernen
 
-# 5Blätter Minze
-# 200ml Joghurt
-# 80g Eiswürfel
-# 20g Mandeln
-# Knoblauch
-* mit Gurken pürieren
-* kaltstellen
+* 5Blätter Minze
+* 200ml Joghurt
+* 80g Eiswürfel
+* 20g Mandeln
+* Knoblauch
+- mit Gurken pürieren
+- kaltstellen
 
-# Salz
-* abschmecken
+* Salz
+- abschmecken

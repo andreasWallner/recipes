@@ -4,28 +4,28 @@
 !source: Familienrezept
 !lang: de
 
-# 250ml Milch
-# 30g Zucker
-# Prise Salz
-# Zitronenschale
-* aufkochen
+* 250ml Milch
+* 30g Zucker
+* Prise Salz
+* Zitronenschale
+- aufkochen
 
-# 65g Risottoreis
-* zugeben, erneut aufkochen
-* zugedeckt quellen lassen, wenn nötig Wasser zugeben (ca. 30 Minuten)
-* überkühlen lassen
+* 65g Risottoreis
+- zugeben, erneut aufkochen
+- zugedeckt quellen lassen, wenn nötig Wasser zugeben (ca. 30 Minuten)
+- überkühlen lassen
 
-# 2 Eigelb
-# 100g Topfen
-* verrühren
-* Reismasse untermischen
+* 2 Eigelb
+* 100g Topfen
+- verrühren
+- Reismasse untermischen
 
-# 2 Eiweiß
-* steif schlagen
-* unter die Reismasse heben
+* 2 Eiweiß
+- steif schlagen
+- unter die Reismasse heben
 
-# Butter
-# 250g Birnen, Dose
-* Form einbuttern
-* Birnenspalten und Reismasse in die Form schichten
-* im vorgeheizten Rohr bei 180°C für ca. 30 Minuten backen
+* Butter
+* 250g Birnen, Dose
+- Form einbuttern
+- Birnenspalten und Reismasse in die Form schichten
+- im vorgeheizten Rohr bei 180°C für ca. 30 Minuten backen

@@ -4,46 +4,46 @@
 !source: Werner Ganster
 !lang: de
 
-# 130g Süßrahmbutter, weich
-# 110g Staubzucker
-# 1/2 Schote Vanillemark
-* cremig rühren
+* 130g Süßrahmbutter, weich
+* 110g Staubzucker
+* 1/2 Schote Vanillemark
+- cremig rühren
 
-# 130g Mehl
-* über die Buttermasse sieben
+* 130g Mehl
+- über die Buttermasse sieben
 
-# 130g Manner Schokolade
-* über Wasserbad schmelzen
+* 130g Manner Schokolade
+- über Wasserbad schmelzen
 
-# 6 Eidotter
-* einzeln zu Buttermasse zugeben
-* Schokolade unter die Masse mischen
+* 6 Eidotter
+- einzeln zu Buttermasse zugeben
+- Schokolade unter die Masse mischen
 
-# 6 Eiklar
-# 110g Kristallzucker
-* Eier steif schlagen
-* Zucker einrießeln lassen, schnittfest schlagen
-* Schnee und Mehl unter die Buttermasse heben
+* 6 Eiklar
+* 110g Kristallzucker
+- Eier steif schlagen
+- Zucker einrießeln lassen, schnittfest schlagen
+- Schnee und Mehl unter die Buttermasse heben
 
 + im auf 170°C vorgeheizten Rohr ca. 1h backen, die ersten 15 Minuten Backrohr einen Spalt offen lassen. Fertiggebacken wenn die Torte einen leichten Fingerdruck sanft erwiedert.
 
-* in der Springform auf ein Gitter stürzen, 20 Minuten auskühlen lassen
-* umdrehen, Springform entfernen, vollständig auskühlen lassen
+- in der Springform auf ein Gitter stürzen, 20 Minuten auskühlen lassen
+- umdrehen, Springform entfernen, vollständig auskühlen lassen
 
-# 1Glas Marillenmarmelade
-* Torte durchschneiden, mit Marmelade füllen
-* Seite und Deckel mit Marmelade bestreichen
+* 1Glas Marillenmarmelade
+- Torte durchschneiden, mit Marmelade füllen
+- Seite und Deckel mit Marmelade bestreichen
 
-# 150g Manner Schokolade
-* über Wasserbad schmelzen
+* 150g Manner Schokolade
+- über Wasserbad schmelzen
 
-# 200g Zucker
-# 1/8l Wasser
-* aufkochen, 5 Minuten kochen
-* etwas erkalten lassen
-* Schokolade unterrühren
-* auskühlen lassen bis zähflüssig
-* Torte glasieren
+* 200g Zucker
+* 1/8l Wasser
+- aufkochen, 5 Minuten kochen
+- etwas erkalten lassen
+- Schokolade unterrühren
+- auskühlen lassen bis zähflüssig
+- Torte glasieren
 
 !title: Sachertorte
 !size: eine 26 cm Springform
@@ -51,43 +51,43 @@
 !source: Gertrude Dissauer
 !lang: de
 
-# 160g Kristallzucker
-# 8 Eiklar
-* zu Schnee schlagen
+* 160g Kristallzucker
+* 8 Eiklar
+- zu Schnee schlagen
 
-# 160g Butter
-# 160g Kochschokolade
-* über Wasserbad schmelzen
+* 160g Butter
+* 160g Kochschokolade
+- über Wasserbad schmelzen
 
-# 1Pkg Vanillezucker
-* in die Buttermasse einrühren
+* 1Pkg Vanillezucker
+- in die Buttermasse einrühren
 
-# 8 Eidotter
-* nach und nach in die Buttermasse einrühren
+* 8 Eidotter
+- nach und nach in die Buttermasse einrühren
 
-# 160g glattes Weizenmehl
-# 5g Backpulver
-* vermengen
+* 160g glattes Weizenmehl
+* 5g Backpulver
+- vermengen
 
-* in die Buttermasse die Hälfte Eischnee und die halbe Menge Mehlgemisch einrühren
+- in die Buttermasse die Hälfte Eischnee und die halbe Menge Mehlgemisch einrühren
 
-* die andere Hälfte Mehlgemisch und Eischnee unterheben
+- die andere Hälfte Mehlgemisch und Eischnee unterheben
 
-* den Boden der Tortenform mit Backpapier auslegen und Masse einfüllen
+- den Boden der Tortenform mit Backpapier auslegen und Masse einfüllen
 
 + im auf 175° vorgeheizten Backrohr 43 Minuten backen
 
-* die Torte kurz auskühlen lassen
+- die Torte kurz auskühlen lassen
 
-* in der Form stürzen und so erkalten lassen
+- in der Form stürzen und so erkalten lassen
 
-# Marillenmarmelade
-* Die Torte schneiden und mit Marillenmarmelade füllen
+* Marillenmarmelade
+- Die Torte schneiden und mit Marillenmarmelade füllen
 
-# 200g Marillenmarmelade
-* kurz aufkochen und die Torte damit glasieren
+* 200g Marillenmarmelade
+- kurz aufkochen und die Torte damit glasieren
 
-# 100g Butter
-# 200g Kochschokolade
-* über Wasserbad schmelzen
-* Torte damit glasieren
+* 100g Butter
+* 200g Kochschokolade
+- über Wasserbad schmelzen
+- Torte damit glasieren

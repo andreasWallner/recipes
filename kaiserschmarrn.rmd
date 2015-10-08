@@ -4,24 +4,24 @@
 !source: Familienrezept
 !lang: de
 
-# 120g Mehl
-# 4 Dotter
-# 125g Milch
-* mischen
+* 120g Mehl
+* 4 Dotter
+* 125g Milch
+- mischen
 
-# 4 Eiklar
-# 50g Zucker
-# Prise Salz
-* steif schlage
-* in 2 Schritten unter die Dottermasse heben
+* 4 Eiklar
+* 50g Zucker
+* Prise Salz
+- steif schlage
+- in 2 Schritten unter die Dottermasse heben
 
-# Butter
-* in Pfanne schmelzen
-* Teig eingießen und ca. 2 Minuten stocken lassen
-* im vorgeheizten Rohr bei 170°C 10—15 Minuten backen
+* Butter
+- in Pfanne schmelzen
+- Teig eingießen und ca. 2 Minuten stocken lassen
+- im vorgeheizten Rohr bei 170°C 10—15 Minuten backen
 
-# Zucker
-* vierteln und umdrehen
-* am Herd bräunen
-* mit Zucker bestreuen
-* kurz karamellisieren lassen
+* Zucker
+- vierteln und umdrehen
+- am Herd bräunen
+- mit Zucker bestreuen
+- kurz karamellisieren lassen

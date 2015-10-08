@@ -4,26 +4,26 @@
 !source: angepasst von "the copycat recipe guide" (http://www.copycatrecipeguide.com/How_to_Make_Subway_Bread)
 !lang: en
 
-# 11g Hefe
-# 15g Zucker
-# 250g Wasser 50°C
-* mischen
-* stehen lassen bis schaumig
+* 11g Hefe
+* 15g Zucker
+* 250g Wasser 50°C
+- mischen
+- stehen lassen bis schaumig
 
-# 35g Öl
-# 20g Salz
-* mit Hefewasser mischen
+* 35g Öl
+* 20g Salz
+- mit Hefewasser mischen
 
-# 100g Mehl W700
-# 375g Mehl W480
-* nach und nach unter die Flüssigkeit mischen
-* kneten
+* 100g Mehl W700
+* 375g Mehl W480
+- nach und nach unter die Flüssigkeit mischen
+- kneten
 
 + zugedeckt für 1h gehen lassen
 
-* in 8 Teile teilen
-* in 25—30 cm Wecken formen
+- in 8 Teile teilen
+- in 25—30 cm Wecken formen
 
 + zugedeckt für ca. 1h gehen lassen
 
-* im vorgeheizten Rohr bei 180°C ca. 25 Minuten backen
+- im vorgeheizten Rohr bei 180°C ca. 25 Minuten backen

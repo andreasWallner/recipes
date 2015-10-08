@@ -4,25 +4,25 @@
 !source: http://www.chefkoch.de/rezepte/799931183625497/Bauern-Kartoffelpuffer.html
 !lang: de
 
-# 3 Mittelgroße Kartoffeln
-# 100g Käse
-* fein reiben
+* 3 Mittelgroße Kartoffeln
+* 100g Käse
+- fein reiben
 
-# 1 Zwiebel
-# 100g Speck
-* in kleine Würfel schneiden
+* 1 Zwiebel
+* 100g Speck
+- in kleine Würfel schneiden
 
-# 1 Knoblauchzehe
-* hinein pressen
+* 1 Knoblauchzehe
+- hinein pressen
 
-# 2 Eier
-# 2 EL Mehl
-* hinzu geben
+* 2 Eier
+* 2 EL Mehl
+- hinzu geben
 
-* Mit Salz und Pfeffer würzen
+- Mit Salz und Pfeffer würzen
 
-* Alles gut durchrühren
+- Alles gut durchrühren
 
-* je 2 bis 4 gehäufte Esslöffel von der Masse in eine Pfanne geben
-* flachdrücken
-* beide Seiten bei mittlerer Hitze goldgelb braten (ca. 3 Minuten je Seite)
+- je 2 bis 4 gehäufte Esslöffel von der Masse in eine Pfanne geben
+- flachdrücken
+- beide Seiten bei mittlerer Hitze goldgelb braten (ca. 3 Minuten je Seite)

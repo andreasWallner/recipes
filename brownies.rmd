@@ -4,20 +4,20 @@
 !source: Chocolate Bar by Matt Lewis & Alison Nelson
 !lang: de
 
-# 300g dunkle Schokolade
-# 226g Butter
-* über Wasserbad schmelzen
+* 300g dunkle Schokolade
+* 226g Butter
+- über Wasserbad schmelzen
 
-# 30g Kakao
-# 400g Zucker
-# 1EL Vanillearoma
-# 2Priesen Salz
-* unter die Schokolademasse rühren
+* 30g Kakao
+* 400g Zucker
+* 1EL Vanillearoma
+* 2Priesen Salz
+- unter die Schokolademasse rühren
 
-# 6 Eier
-* nach und nach unterrühren
+* 6 Eier
+- nach und nach unterrühren
 
-# 190g Mehl
-* unterrühren
+* 190g Mehl
+- unterrühren
 
 + Im auf 180°C vorgeheizten Rohr ca. 20-25 Minuten backen, nicht ganz durchbacken

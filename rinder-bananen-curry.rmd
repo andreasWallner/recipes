@@ -4,34 +4,34 @@
 !source: GU
 !lang: de
 
-# 2 Zwiebel, grobe Würfel
-* 5 Minuten anbraten
+* 2 Zwiebel, grobe Würfel
+- 5 Minuten anbraten
 
-# 2 Knoblauchzehen, gehackt
-* kurz mitbraten
-* aus der Pfanne nehmen und zur Seite stellen
+* 2 Knoblauchzehen, gehackt
+- kurz mitbraten
+- aus der Pfanne nehmen und zur Seite stellen
 
-# 600g Gulaschfleisch, Würfel
-* anbraten
+* 600g Gulaschfleisch, Würfel
+- anbraten
 
-# 2TL Currypulver
-# 1TL Zimtpulver
-# 1/2TL Nelken, gemahlen
-# 4 Chilis, feine Würfel
-# Salz
-* Zwiebel und Geürze zum Fleisch zugeben
-* pfannenrühren bis aromatisch
+* 2TL Currypulver
+* 1TL Zimtpulver
+* 1/2TL Nelken, gemahlen
+* 4 Chilis, feine Würfel
+* Salz
+- Zwiebel und Geürze zum Fleisch zugeben
+- pfannenrühren bis aromatisch
 
-# 500g Fleischtomaten, kleine Würfel
-# 800ml Rinderfond
-* zugeben, aufkochen
-* offen für ca. 1 Stunde simmern
-* wenn die Flüssigkeit sämig ist, zugedeckt weitersimmern bis zart
+* 500g Fleischtomaten, kleine Würfel
+* 800ml Rinderfond
+- zugeben, aufkochen
+- offen für ca. 1 Stunde simmern
+- wenn die Flüssigkeit sämig ist, zugedeckt weitersimmern bis zart
 
-# 4 Bananen, möglichst grün
-* längs vierteln, in 2cm Würfel schneiden
-* unter Curry mischen
-* 20 Minuten simmern lassen
+* 4 Bananen, möglichst grün
+- längs vierteln, in 2cm Würfel schneiden
+- unter Curry mischen
+- 20 Minuten simmern lassen
 
-# 1Bund Koriandergrün
-* grob hacken, über Curry streuen
+* 1Bund Koriandergrün
+- grob hacken, über Curry streuen

@@ -4,31 +4,31 @@
 !source: lecker.de (http://www.lecker.de/rezept/2017400/Burgunder-Rostbraten-zu-Roestkartoffeln.html)
 !lang: de
 
-# 8 Scheiben Rostbraten
-# Salz
-# Mehl
-* mehlen, salzen
-* beiseitig anbraten
+* 8 Scheiben Rostbraten
+* Salz
+* Mehl
+- mehlen, salzen
+- beiseitig anbraten
 
-# 250g Karotten
-# 750g Schalotten
-# Salz
-# Pfeffer
-# 500ml Brühe
-# 500ml Rotwein
-* Schalotten schälen, halbieren oder vierteln
-* Karotten klein würfeln
-* Gemüse anbraten, würzen
-* ablöschen
-* Fleisch, Gemüse und Saft in Form schichten
+* 250g Karotten
+* 750g Schalotten
+* Salz
+* Pfeffer
+* 500ml Brühe
+* 500ml Rotwein
+- Schalotten schälen, halbieren oder vierteln
+- Karotten klein würfeln
+- Gemüse anbraten, würzen
+- ablöschen
+- Fleisch, Gemüse und Saft in Form schichten
 
 + bei 175°C 1 1/2 Stunden zugedeckt garen, 1 Stunde offen garen
 
-# 1 1/2kg Kartoffeln
-# 2 Zweige Rosmarin
-# 25g Butterschmalz
-* Kartoffeln schälen, vierteln
-* braten
+* 1 1/2kg Kartoffeln
+* 2 Zweige Rosmarin
+* 25g Butterschmalz
+- Kartoffeln schälen, vierteln
+- braten
 
-# Petersilie
-* garnieren
+* Petersilie
+- garnieren

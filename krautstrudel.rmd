@@ -3,35 +3,35 @@
 !size: 2 kleine Strudel
 !lang: de
 
-# 4 Knoblauchzehen, gehackt
-# 1/2 Sauerrahm
-# Majonaise
-* mischen, kühlen
+* 4 Knoblauchzehen, gehackt
+* 1/2 Sauerrahm
+* Majonaise
+- mischen, kühlen
 
-# 4 Zwiebel, gehackt
-* anschwitzen
+* 4 Zwiebel, gehackt
+- anschwitzen
 
-# 300g Speck, kleine Würfel
-* im Zwiebel auslassen und anbraten
+* 300g Speck, kleine Würfel
+- im Zwiebel auslassen und anbraten
 
-# 1 Lauchstange
-# 300g Weisskraut
-* in schmale Streifen schneiden
-* mit Zwiebeln mitbraten
+* 1 Lauchstange
+* 300g Weisskraut
+- in schmale Streifen schneiden
+- mit Zwiebeln mitbraten
 
-# Salz
-# Pfeffer
-# Majoran
-# Kümmel
-* würzen
-* auskühlen lassen
+* Salz
+* Pfeffer
+* Majoran
+* Kümmel
+- würzen
+- auskühlen lassen
 
-# 2 Dotter
-# 200g Bergkäse, gerieben
-* untermischen
+* 2 Dotter
+* 200g Bergkäse, gerieben
+- untermischen
 
-# 2 Blätterteige
-# Eiklar
-* Teig füllen, rollen
-* mit Eiklar bestreichen
-* im auf 180°C vorgeheizten Rohr ca. 30 Minuten backen
+* 2 Blätterteige
+* Eiklar
+- Teig füllen, rollen
+- mit Eiklar bestreichen
+- im auf 180°C vorgeheizten Rohr ca. 30 Minuten backen

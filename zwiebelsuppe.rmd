@@ -1,44 +1,43 @@
 !title: Zwiebelsuppe
-size: 4 Portionen
-author: Andreas Wallner
-source: Familienrezept
-lang: de
+!size: 4 Portionen
+!author: Andreas Wallner
+!source: Familienrezept
+!lang: de
+!desc: Für dieses Rezept benötigt man feuerfeste Schüsseln.
 
-Für dieses Rezept benötigt man feuerfeste Schüsseln.
+* 1kg Zwiebel
+* Butter
+* Salz
+- in gleichmäßige Ringe schneiden
+- salzen, in Butter anschwitzen
+- auf kleiner Hitze weiterbraten bis goldbraun (sollte > 2 Stunden brauchen)
 
-# 1kg Zwiebel
-# Butter
-# Salz
-* in gleichmäßige Ringe schneiden
-* salzen, in Butter anschwitzen
-* auf kleiner Hitze weiterbraten bis goldbraun (sollte > 2 Stunden brauchen)
+* 1EL Butter
+* 2EL Mehl
+- zugeben, Mehl bräunen
 
-# 1EL Butter
-# 2EL Mehl
-* zugeben, Mehl bräunen
+* 200ml Weißwein
+* 1 1/2l Rinderboullion
+- ablöschen
+- Brühe langsam und unter rühren zugeben
 
-# 200ml Weißwein
-# 1 1/2l Rinderboullion
-* ablöschen
-* Brühe langsam und unter rühren zugeben
+* 1 Lorbeerblatt
+* 2 Salbeizweige
+* 4 Thymianzweige
+* Salz
+* Pfeffer
+* Essig
+- in Teebeutel in die Suppe geben
+- 30—40 Minuten leicht simmern
+- mit Salz, Pfeffer und etwas Essig abschmecken
 
-# 1 Lorbeerblatt
-# 2 Salbeizweige
-# 4 Thymianzweige
-# Salz
-# Pfeffer
-# Essig
-* in Teebeutel in die Suppe geben
-* 30—40 Minuten leicht simmern
-* mit Salz, Pfeffer und etwas Essig abschmecken
+* Baguette
+- 4 cm Scheiben auf Suppenschüsseln zuschneiden
+- toasten
 
-# Baguette
-* 4 cm Scheiben auf Suppenschüsseln zuschneiden
-* toasten
-
-# 200g Bergkäse gerieben
-# 40ml Cognac (optional)
-* Suppe auf Schüsseln verteilen
-* Cognac auf Suppen verteilen
-* etwas Käse draufstreuen, Scheibe Toast darauflegen, restlichen Käse darüber verteilen
-* im vorgeheizten Backrohr bei 180°C leicht braun backen, sofort servieren
+* 200g Bergkäse gerieben
+* 40ml Cognac (optional)
+- Suppe auf Schüsseln verteilen
+- Cognac auf Suppen verteilen
+- etwas Käse draufstreuen, Scheibe Toast darauflegen, restlichen Käse darüber verteilen
+- im vorgeheizten Backrohr bei 180°C leicht braun backen, sofort servieren
